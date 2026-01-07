@@ -1,2 +1,3 @@
-# c24_inteligencia_artificial
+# C24 Inteligência Artificial
+
 Introdução à inteligência artificial
