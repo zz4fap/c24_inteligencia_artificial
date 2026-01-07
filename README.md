@@ -8,7 +8,7 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 1. [Introdução](https://github.com/zz4fap/t319_aprendizado_de_maquina/blob/main/slides/T319_Introdu%C3%A7%C3%A3o(slides).pdf)
 
-<img src="/figures/python_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
+<img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
 Felipe Augusto Pereira de Figueiredo
 
