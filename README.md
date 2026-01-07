@@ -1,6 +1,6 @@
 # C24 - Inteligência Artificial
 
-Repositório com o material da disciplina "Introdução ao aprendizado de máquina".
+Repositório com o material da disciplina "Introdução à inteligência artificial".
 
 ## Material das aulas
 
