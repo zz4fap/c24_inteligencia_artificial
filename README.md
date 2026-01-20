@@ -6,7 +6,7 @@ Repositório com o material da disciplina "Introdução à inteligência artific
 
 O material das aulas pode ser encontrado na pasta **slides** e acessado pelos links abaixo.
 
-1. [Introdução](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/c24_Introdu%C3%A7%C3%A3o.pdf)
+1. [Introdução](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_Introdu%C3%A7%C3%A3o.pdf)
    
 2. [Paradigmas](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_Paradigmas.pdf)
 
