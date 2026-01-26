@@ -12,7 +12,7 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 3. [Projetos](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_Projetos.pdf)
 
-4. [Projetos](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_EDA.pdf)
+4. [EDA](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_EDA.pdf)
 
 ## Listas de exercícios
 
