@@ -1,4 +1,4 @@
-# C24 - Inteligência Artificial
+# C23/C24 - Inteligência Artificial
 
 Repositório com o material da disciplina "Introdução à inteligência artificial".
 
