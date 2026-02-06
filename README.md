@@ -24,6 +24,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 3. [Lista 3 - EDA](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%203%20-%20EDA.pdf)
 
+4. [Lista 4 - Transformações](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%204%20-%20Transforma%C3%A7%C3%B5es.pdf)
+
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
 Felipe Augusto Pereira de Figueiredo
