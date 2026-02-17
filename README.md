@@ -28,6 +28,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 4. [Lista 4 - Transformações](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%204%20-%20Transforma%C3%A7%C3%B5es.pdf)
 
+5. [Lista 5 - Regressão](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%205%20-%20Regress%C3%A3o.pdf) 
+
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
 Felipe Augusto Pereira de Figueiredo
