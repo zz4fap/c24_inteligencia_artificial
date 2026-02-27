@@ -36,7 +36,7 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 6. [Lista 6 - Classificação](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%206%20-%20Classifica%C3%A7%C3%A3o.pdf)
 
-7. [Lista 7 - Regressor softmax]()
+7. [Lista 7 - Regressão softmax](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%207%20-%20Regress%C3%A3o%20softmax.pdf)
 
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
