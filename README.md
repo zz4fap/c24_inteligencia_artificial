@@ -22,6 +22,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 8. [Regressor softmax](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_Regressor_Softmax.pdf)
 
+9. [Métricas de classificação](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_M%C3%A9tricas_de_Classifica%C3%A7%C3%A3o.pdf)
+
 ## Listas de exercícios
 
 1. [Lista 1 - Introdução](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%201%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20IA.pdf)
@@ -37,6 +39,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 6. [Lista 6 - Classificação](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%206%20-%20Classifica%C3%A7%C3%A3o.pdf)
 
 7. [Lista 7 - Regressão softmax](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%207%20-%20Regress%C3%A3o%20softmax.pdf)
+
+8. [Lista 8 - Métricas de classificação](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%208%20-%20M%C3%A9tricas%20de%20classifica%C3%A7%C3%A3o.pdf) 
 
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
