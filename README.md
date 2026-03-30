@@ -28,6 +28,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 11. [CNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_CNN.pdf)
 
+12. [RNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_RNN.pdf)
+
 ## Listas de exercícios
 
 1. [Lista 1 - Introdução](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%201%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20IA.pdf)
@@ -49,6 +51,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 9. [Lista 9 - MLP](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%209%20-%20MLP.pdf)
 
 10. [Lista 10 - CNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2010%20-%20CNN.pdf)
+
+11. [Lista 11 - RNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2011%20-%20RNN.pdf)
 
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
