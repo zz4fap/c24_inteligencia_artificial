@@ -30,7 +30,9 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 12. [RNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_RNN.pdf)
 
-13. [Árvores de decisão](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_%C3%81rvores_de_decis%C3%A3o.pdf) 
+13. [Árvores de decisão](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_%C3%81rvores_de_decis%C3%A3o.pdf)
+
+14. [k-Means](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_kMeans.pdf)
 
 ## Listas de exercícios
 
@@ -57,6 +59,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 11. [Lista 11 - RNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2011%20-%20RNN.pdf)
 
 12. [Lista 12 - Árvores de decisão](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2012%20-%20%C3%81rvores%20de%20decis%C3%A3o.pdf)
+
+13. [Lista 13 - k-Means](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2013%20-%20k-Means.pdf)
 
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
