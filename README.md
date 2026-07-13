@@ -36,6 +36,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 
 15. [Q-learning](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_Q_learning.pdf)
 
+16. [kNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/slides/C24_kNN.pdf)
+
 ## Listas de exercícios
 
 1. [Lista 1 - Introdução](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%201%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20IA.pdf)
@@ -65,6 +67,8 @@ O material das aulas pode ser encontrado na pasta **slides** e acessado pelos li
 13. [Lista 13 - k-Means](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2013%20-%20k-Means.pdf)
 
 14. [Lista 14 - Q-learning](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2014%20-%20Q-learning.pdf)
+
+15. [Lista 15 - kNN](https://github.com/zz4fap/c24_inteligencia_artificial/blob/main/listas/Lista%2015%20-%20k-NN.pdf)
 
 <img src="/figures/ml_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
 
